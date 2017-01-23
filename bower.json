@@ -1,0 +1,22 @@
+{
+  "name": "purescript-cannon",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "aratama <aratama@example.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-eff": "^2.0.0",
+    "purescript-maybe": "^2.0.1",
+    "purescript-nullable": "^2.0.0"
+  }
+}
